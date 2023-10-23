@@ -1,0 +1,8 @@
+# autosim[內科6廠.xlsx](https://github.com/zong0819/autosim/files/13065851/6.xlsx)
+[內科5廠.xlsx](https://github.com/zong0819/autosim/files/13065850/5.xlsx)
+[內科4廠.xlsx](https://github.com/zong0819/autosim/files/13065849/4.xlsx)
+[內科3廠.xlsx](https://github.com/zong0819/autosim/files/13065848/3.xlsx)
+[內科2廠.xlsx](https://github.com/zong0819/autosim/files/13065847/2.xlsx)
+[內科1廠.xlsx](https://github.com/zong0819/autosim/files/13065846/1.xlsx)
+[模擬分析_生產規劃模擬.xlsx](https://github.com/zong0819/autosim/files/13065852/_.xlsx)
+[案例實作-規劃求解模擬分析自動化.xlsx](https://github.com/zong0819/autosim/files/13065854/-.xlsx)
